@@ -14,6 +14,7 @@
     -- Update Version 2.
         * Since version 2 I have changed the cosmetic and technical structure of the navigation bar. It is now using a bootstrap navbar, the text font has changed to be more unique and give character to the website as a whole.
         * The link navigation have all been changed to buttons following the website's character scheme with additions of dropdowns and onclicks to auto scroll to correct locations.
+        * Current there is a issue with the *about me* modal execution, the modal backdrop does not allow interaction and closure, will need further investigatiom.
 
 
 # Hero Container
