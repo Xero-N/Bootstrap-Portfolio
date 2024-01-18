@@ -46,7 +46,9 @@
     This area is new and includes 3 socials LinkedIn, Github and Twitter (X), these socials will eventually need to be hyperlinked to the appropriate social accounts.
     This area will still need to be looked at, at a later date.
 
+# Deployed 
 
+    https://xero-n.github.io/Bootstrap-Portfolio/
 
 # Overall
 
